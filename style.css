@@ -22,7 +22,7 @@ main {
   flex-direction: column;
 }
 
-#description, #answer, #projects {
+#content, #answer, #projects {
   text-align: justify;
 }
 
@@ -35,4 +35,24 @@ main {
   display: inline-flex;
   column-gap: 50px;
   flex-direction: row;
+}
+
+.hidden {
+  display: none;
+}
+
+.toggle-button {
+  cursor: pointer;
+  transition-duration: 0.4s;
+  border-radius: 10px;
+}
+
+.toggle-button:hover {
+  background-color: #dd53d4;
+  color: white;
+}
+
+.toggle-button:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
