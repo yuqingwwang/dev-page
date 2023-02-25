@@ -1,6 +1,6 @@
 h1 {
   font-family: 'Phudu', cursive;
-  font-size: 50px;
+  font-size: 30px;
 }
 
 h2, h3, p, a {
@@ -11,8 +11,8 @@ h2 {
   font-size: 20px;
 }
 
-body {
-  padding: 10px;
+body, p {
+  padding: 8px;
   text-align: center;
 }
 
