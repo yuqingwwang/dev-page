@@ -13,7 +13,7 @@ Step 2: filling each section with texts and link to github repo
 
 Step 3: adding hide/show button for each section
 
-Setp 4: added links to Github and Linkedin
+Step 4: added links to Github and Linkedin
 
 
 Now I'm using this page as the about me page that I share with others 🎉
