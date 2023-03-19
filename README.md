@@ -1,6 +1,6 @@
 # about-me
 
-A [website](https://yuqingwwang.github.io/about-me/) showcasing my application.
+A [website](https://www.yuqingwang.dev/) showcasing my application.
 
 - About me
 - Why I wish to move into a career as a web developer
