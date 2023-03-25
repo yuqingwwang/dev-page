@@ -13,11 +13,13 @@ Step 2: filling each section with texts and link to github repo
 
 Step 3: adding hide/show button for each section
 
-Step 4: added links to Github and Linkedin
+Step 4: added links to Github and Linkedin at the top
 
+Step 5: added slideshow showcasing three of my favourite projects
 
-Now I'm using this page as the about me page that I share with others 🎉
+This is fo sure the most interesting project I've completed as a part of the FAC
+application. I have also deployed this page to my [personal website](https://www.yuqingwang.dev/) 🎉
 
-# Next Step? 🤔
-
-Planning to display the actual previews of projects on this page instead of just a link
+# Learning from others
+Seeing a page made by a previous student inspired my to add a Slideshow to my page.
+I followed the tutorial on W3schools, and made a Slideshow of my top projects.
